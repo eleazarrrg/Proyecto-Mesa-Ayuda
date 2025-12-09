@@ -6,7 +6,11 @@
 
 > Proyecto final de la asignatura **Ingeniería Web (1SF132) – II Semestre 2025**  
 > **Universidad Tecnológica de Panamá – Facultad de Ingeniería**  
-> **Profesora:** Ing. Irina Fong  
+> **Profesora:** Ing. Irina Fong
+> **Integrantes: **JUAN ZHU 8-1010-701  
+ALEX DE BOUTAUD 8-1015-1644  
+ISABELLA CASTRO 8-1010-2483 
+RAFAEL GÓMEZ 8-1011-1754  
 
 ---
 
@@ -109,32 +113,6 @@ La aplicación está organizada bajo una estructura clásica de proyecto PHP:
 - Validación de datos en el lado del servidor y, en algunos casos, en el lado del cliente.
 
 Los diagramas de casos de uso, clases, secuencia y otros modelos UML se encuentran descritos en el informe en PDF.
-
----
-
-## 📂 Estructura recomendada del proyecto
-
-> Los nombres de carpetas pueden variar según tu implementación real. Ajusta esta sección si es necesario.
-
-```text
-mesa-ayuda/
-├── docs/
-│   ├── ProyectoFinal-Ing-Web.pdf      # Informe del proyecto (versión entregada)
-│   └── mesa-ayuda-banner.png          # Imagen principal usada en este README
-├── sql/
-│   └── mesa_ayuda.sql                 # Script de creación de la base de datos
-├── src/                               # Código fuente principal
-│   ├── config/                        # Configuración (conexión a BD, constantes, etc.)
-│   ├── controllers/                   # Lógica de negocio
-│   ├── models/                        # Clases de acceso a datos
-│   ├── views/                         # Vistas y plantillas
-│   ├── assets/
-│   │   ├── css/
-│   │   ├── js/
-│   │   └── img/
-│   └── index.php                      # Punto de entrada de la aplicación
-└── README.md
-```
 
 ---
 
