@@ -1,7 +1,7 @@
 # Proyecto Mesa de Ayuda 🧩🖥️
 
 <p align="center">
-  <img src="docs/mesa-ayuda-banner.png" alt="Pantalla principal del sistema Mesa de Ayuda" width="800">
+  <img src="[docs/mesa-ayuda-banner.png](https://img.freepik.com/fotos-premium/pantalla-ayuda-sitio-web-proporciona-respuestas-preguntas-frecuentes-facilidad_31965-520321.jpg)" alt="Pantalla principal del sistema Mesa de Ayuda" width="800">
 </p>
 
 > Proyecto final de la asignatura **Ingeniería Web (1SF132) – II Semestre 2025**  
