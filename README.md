@@ -6,11 +6,14 @@
 
 > Proyecto final de la asignatura **Ingeniería Web (1SF132) – II Semestre 2025**  
 > **Universidad Tecnológica de Panamá – Facultad de Ingeniería**  
-> **Profesora:** Ing. Irina Fong
-> **Integrantes: **JUAN ZHU 8-1010-701  
-ALEX DE BOUTAUD 8-1015-1644  
-ISABELLA CASTRO 8-1010-2483 
-RAFAEL GÓMEZ 8-1011-1754  
+> **Profesora:** Ing. Irina Fong  
+>  
+> **Integrantes:**  
+> - Juan Zhu – 8-1010-701  
+> - Alex De Boutaud – 8-1015-1644  
+> - Isabella Castro – 8-1010-2483  
+> - Rafael Gómez – 8-1011-1754
+
 
 ---
 
